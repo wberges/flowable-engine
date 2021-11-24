@@ -38,10 +38,6 @@
             "name": "dmnTask",
             "documentation": "dmnTaskDocumentation",
             "decisiontaskdecisiontablereferencekeydefinition": "tableKey",
-            "decisiontaskdecisiontablereference": {
-                "id": "someId",
-                "key": "dmnTableReference"
-            },
             "decisiontaskthrowerroronnohits": false,
             "decisiontaskfallbacktodefaulttenant": true
           },
